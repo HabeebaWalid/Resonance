@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 331449740a6f174478861de628c496e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - objectToActivateWithFlowers: {fileID: 919132149155446097, guid: 1624423a5cf2a15409d893a9e4442606, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
